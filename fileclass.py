@@ -1,0 +1,5 @@
+file=open('Dummyfile.txt','r')
+print(file.read())
+print(file)
+print(file.name)
+file.close()
